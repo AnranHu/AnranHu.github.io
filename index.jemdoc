@@ -1,0 +1,83 @@
+= Anran Hu 胡安然
+
+== About me
+~~~
+{}{img_left}{anranhu_photo.JPG}{Anran Hu photo}{210}{270}
+Welcome to my homepage!\n
+
+I'm a PhD candidate in [https://ieor.berkeley.edu/ Berkeley IEOR], advised by [https://xinguo.ieor.berkeley.edu/ Prof. Xin Guo]. Before coming to Berkeley, I obtained my B.S. degree from [http://english.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University]. My research topics include applied probability, reinforcement learning, stochastic control and games. Recently, I am also interested in mathematical finance and applying machine learning and reinforcement learning to finance.  
+
+Please find my [AnranHu_resume_202109.pdf resume] here.
+
+#== Contact
+Email: anran_hu \[at\] berkeley (dot) edu\n
+\[[https://www.researchgate.net/profile/Anran-Hu-3 ResearchGate]\]
+\[[https://scholar.google.com/citations?user=AGrfjA8AAAAJ&hl=en Google Scholar]\]
+\[[https://www.linkedin.com/in/anran-hu-747a1b186/ LinkedIn]\] 
+~~~
+
+== Education
+- Ph.D. candidate, [https://ieor.berkeley.edu/ IEOR, UC Berkeley], August 2016 -- present.
+- M.S., [https://ieor.berkeley.edu/ IEOR, UC Berkeley], August 2016 -- May 2017.
+- B.S., [http://english.math.pku.edu.cn/ School of Mathematical Sciences], [http://english.pku.edu.cn/ Peking University], September 2012 -- July 2016.
+
+== Research Interests
+- Reinforcement learning \& machine learning
+- Applied probability, stochastic control and games
+- Mathematical finance
+
+== Publications \& Preprints
+- [https://arxiv.org/pdf/2003.06069.pdf A General Framework for Learning Mean-Field Games].\n
+ Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. \n
+ Mathematics of Operations Reseach, Revision. \n
+- [https://arxiv.org/pdf/1901.09585.pdf Learning Mean-Field Games]. \[[https://papers.nips.cc/paper/8742-learning-mean-field-games Published version]\] \[[https://nips.cc/Conferences/2019/Schedule?showEvent=13641 Slides]\]\n
+ Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. \n
+ Neural Information Processing Systems (NeurIPS), 2019. \n
+- [https://arxiv.org/pdf/1810.02955.pdf Consistency and Computation of Regularized MLEs for Multivariate Hawkes Processes].\n
+ Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. \n
+ Short version appeared in [https://sites.google.com/view/nips2018causallearning/home NeurIPS 2018 Workshop on Causal Learning].\n
+- [https://arxiv.org/abs/2109.06362 Theoretical Guarantees of Fictitious Discount Algorithms for Episodic Reinforcement Learning and Global Convergence of Policy Gradient Methods]. \n
+Xin Guo, *Anran Hu*, Junzi Zhang. (Submitted)\n
+#Submitted to the AAAI Conference on Artificial Intelligence. \n
+- [https://arxiv.org/abs/2104.09311 Reinforcement Learning for Linear-Convex Models with Jumps via Stability Analysis of Feedback Controls]. \n
+Xin Guo, *Anran Hu*, Yufei Zhang. (Submitted)\n
+#Submitted to SIAM Journal on Control and Optimization. \n
+- [https://arxiv.org/abs/2006.15316 Logarithmic Regret for Episodic Continuous-Time Linear-Quadratic Reinforcement Learning over a Finite-Time Horizon]. \n
+Matteo Basei, Xin Guo, *Anran Hu*, Yufei Zhang. (Submitted)\n
+#Submitted to Journal of Machine Learning Research.\n
+
+
+
+== Work Experience
+- *Amazon.com LLC (Seattle)*, /Applied Scientist Intern/
+-- Manager: [https://www.linkedin.com/in/xinyang-shen-48161b Dr. Xinyang Shen].
+-- Project: Data-Driven Large-Scale Inbound Behavior Prediction for Third-Party Sellers.
+
+== Invited Talks
+- INFORMS Annual Meeting, Virtual, 2020.
+- Neural Information Processing Systems, Poster, Vancouver, 2019.
+- INFORMS Annual Meeting, Seattle, WA, 2019.
+- INFORMS Annual Meeting, Phoenix, AZ, 2018.
+- Berkeley-Stanford Workshop on Mathematical and Computational Finance, Stanford University, CA, 2018.
+
+== Teaching
+- Graduate Student Instructor, UC Berkeley
+-- IEOR 263B: Applied Stochastic Process II, Spring 2020. 
+-- IEOR 241: Risk Modeling, Simulation, and Data Analysis, Fall 2019, Fall 2021.
+-- IEOR 221: Introduction to Financial Engineering, Fall 2020.
+-- IEOR 172: Probability and Risk Analysis for Engineers, Fall 2017.
+-- IEOR 120: Principles of Engineering Economics, Fall 2018, Spring 2019.
+-- IEOR 170: Industrial Design and Human Factors, Spring 2018.
+
+#- Graduate student instructor for IEOR 120\/170\/172\/221\/241\/263B.
+#- Reviewer: Journal of Optimization Theory and Applications (JOTA), NeurIPS 2021, ICLR 2021.
+
+== Recent Honors \& Awards
+- Outstanding Graduate Student Instructor, 2021.
+- Berkeley Marshall-Oliver-Rosenberger Fellowship, 2020.
+- NeurIPS Travel Award, 2019.
+- Berkeley IEOR First Year Faculty Fellowship Award, 2017.
+
+
+
+
