@@ -5,19 +5,19 @@
 {}{img_left}{anranhu_photo.jpg}{Anran Hu photo}{210}{270}
 Welcome to my homepage!\n
 
-I'm a PhD candidate in [https://ieor.berkeley.edu/ Berkeley IEOR], advised by [https://xinguo.ieor.berkeley.edu/ Prof. Xin Guo]. Before coming to Berkeley, I obtained my B.S. degree from [http://english.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University]. My research topics include applied probability, reinforcement learning, stochastic control and games. Recently, I am also interested in FinTech and applying machine learning and reinforcement learning to finance.  
+I'm a Hooke Research Fellow in the [https://www.maths.ox.ac.uk/ Mathematical Institute] at the University of Oxford. I completed my Ph.D. in [https://ieor.berkeley.edu/ Berkeley IEOR], advised by [https://xinguo.ieor.berkeley.edu/ Prof. Xin Guo]. Before coming to Berkeley, I obtained my B.S. degree from [http://english.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University]. My research topics include applied probability, reinforcement learning, stochastic control and games. Recently, I am also interested in FinTech and applying machine learning and reinforcement learning to finance.  
 
-Please find my [AnranHu_resume_202204.pdf resume] here.
+Please find my [CV_AnranHu.pdf CV] here.
 
 #== Contact
-Email: anran_hu \[at\] berkeley (dot) edu\n
+Email: Anran.Hu \[at\] maths (dot) ox (dot) ac (dot) uk \n
 \[[https://www.researchgate.net/profile/Anran-Hu-3 ResearchGate]\]
 \[[https://scholar.google.com/citations?user=AGrfjA8AAAAJ&hl=en Google Scholar]\]
 \[[https://www.linkedin.com/in/anran-hu-747a1b186/ LinkedIn]\] 
 ~~~
 
 == Education
-- Ph.D. candidate, [https://ieor.berkeley.edu/ IEOR, UC Berkeley], August 2016 -- present.
+- Ph.D., [https://ieor.berkeley.edu/ IEOR, UC Berkeley], August 2016 -- August 2022.
 - M.S., [https://ieor.berkeley.edu/ IEOR, UC Berkeley], August 2016 -- May 2017.
 - B.S., [http://english.math.pku.edu.cn/ School of Mathematical Sciences], [http://english.pku.edu.cn/ Peking University], September 2012 -- July 2016.
 
@@ -27,24 +27,33 @@ Email: anran_hu \[at\] berkeley (dot) edu\n
 - FinTech
 
 == Publications \& Preprints
-- [https://arxiv.org/pdf/2003.06069.pdf A General Framework for Learning Mean-Field Games].\n
- Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. \n
- Accepted, Mathematics of Operations Reseach. \n
-- [https://arxiv.org/abs/2109.06362 Theoretical Guarantees of Fictitious Discount Algorithms for Episodic Reinforcement Learning and Global Convergence of Policy Gradient Methods]. \n
-Xin Guo, *Anran Hu*, Junzi Zhang. \n
-To appear, AAAI Conference on Artificial Intelligence, 2022. \n
-- [https://arxiv.org/pdf/1901.09585.pdf Learning Mean-Field Games]. \[[https://papers.nips.cc/paper/8742-learning-mean-field-games Published version]\] \[[https://nips.cc/Conferences/2019/Schedule?showEvent=13641 Slides]\]\n
- Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. \n
- Neural Information Processing Systems (NeurIPS), 2019. \n
-- [https://arxiv.org/pdf/1810.02955.pdf Consistency and Computation of Regularized MLEs for Multivariate Hawkes Processes].\n
- Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. \n
- Short version appeared in [https://sites.google.com/view/nips2018causallearning/home NeurIPS 2018 Workshop on Causal Learning].\n
+- [https://arxiv.org/pdf/2206.09608.pdf MF-OMO: An Optimization Formulation of Mean-Field Games]. \n
+Xin Guo, *Anran Hu*, Junzi Zhang. Submitted. (2022)
+- [https://ojs.aaai.org/index.php/AAAI/article/view/20633 Theoretical Guarantees of Fictitious Discount Algorithms for Episodic Reinforcement Learning and Global Convergence of Policy Gradient Methods]. \n
+Xin Guo, *Anran Hu*, Junzi Zhang.  (2021)\n
+Proceedings of the AAAI Conference on Artificial Intelligence 36 (6), 6774-6782. 
+#AAAI Conference on Artificial Intelligence, 2022. \n
 - [https://arxiv.org/abs/2104.09311 Reinforcement Learning for Linear-Convex Models with Jumps via Stability Analysis of Feedback Controls]. \n
-Xin Guo, *Anran Hu*, Yufei Zhang. SIAM Journal on Control and Optimization, Revision.\n
-#Submitted to SIAM Journal on Control and Optimization. \n
-- [https://arxiv.org/abs/2006.15316 Logarithmic Regret for Episodic Continuous-Time Linear-Quadratic Reinforcement Learning over a Finite-Time Horizon]. \n
-Matteo Basei, Xin Guo, *Anran Hu*, Yufei Zhang. (Submitted)\n
+Xin Guo, *Anran Hu*, Yufei Zhang. (2021)\n 
+Revision at SIAM Journal on Control and Optimization. \n
+#Major revision, SIAM Journal on Control and Optimization. \n
+- [https://www.jmlr.org/papers/volume23/20-664/20-664.pdf Logarithmic Regret for Episodic Continuous-Time Linear-Quadratic Reinforcement Learning over a Finite-Time Horizon]. \n
+Matteo Basei, Xin Guo, *Anran Hu*, Yufei Zhang. (2020)\n
+Journal of Machine Learning Research, 23 (178), 1-34. 
+#Journal of Machine Learning Research, 2022.
 #Submitted to Journal of Machine Learning Research.\n
+- [https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1274 A General Framework for Learning Mean-Field Games].\n
+ Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. (2020)  \n
+ Accepted, Mathematics of Operations Research.  \n
+- [https://papers.nips.cc/paper/8742-learning-mean-field-games Learning Mean-Field Games]. \[[https://nips.cc/Conferences/2019/Schedule?showEvent=13641 Slides]\]\n
+#- [https://arxiv.org/pdf/1901.09585.pdf Learning Mean-Field Games]. \[[https://papers.nips.cc/paper/8742-learning-mean-field-games Published version]\] \[[https://nips.cc/Conferences/2019/Schedule?showEvent=13641 Slides]\]\n
+ Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. (2019) \n
+ Advances in Neural Information Processing Systems, 32. 
+ #Neural Information Processing Systems (NeurIPS), 2019. \n
+- [https://arxiv.org/pdf/1810.02955.pdf Consistency and Computation of Regularized MLEs for Multivariate Hawkes Processes].\n
+ Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. (2018) \n
+[https://sites.google.com/view/nips2018causallearning/home NeurIPS 2018 Workshop on Causal Learning]. \n
+
 
 
 
@@ -54,12 +63,15 @@ Matteo Basei, Xin Guo, *Anran Hu*, Yufei Zhang. (Submitted)\n
 -- Project: Data-Driven Large-Scale Inbound Behavior Prediction for Third-Party Sellers.
 
 == Invited Talks
+- SIAM Annual Meeting, Pittsburgh, PA, 2022.
+- IMSI Workshop on Machine Learning and Mean-Field Games, Chicago, IL, 2022.
 - INFORMS Annual Meeting, Virtual, 2020.
 - Neural Information Processing Systems, Poster, Vancouver, 2019.
 - INFORMS Annual Meeting, Seattle, WA, 2019.
 - INFORMS Annual Meeting, Phoenix, AZ, 2018.
 - Berkeley-Stanford Workshop on Mathematical and Computational Finance, Stanford University, CA, 2018.
 
+#== Academic Services
 == Teaching
 - Instructor, UC Berkeley
 -- IEOR 242: Applications in Data Analysis, Spring 2022.
@@ -70,7 +82,8 @@ Matteo Basei, Xin Guo, *Anran Hu*, Yufei Zhang. (Submitted)\n
 -- IEOR 172: Probability and Risk Analysis for Engineers, Fall 2017.
 -- IEOR 120: Principles of Engineering Economics, Fall 2018, Spring 2019.
 -- IEOR 170: Industrial Design and Human Factors, Spring 2018.
-
+#- Reviewer: Journal of Optimization Theory and Applications (JOTA), Mathematical Finance,  NeurIPS 2021\/2022, ICML 2022, ICLR 2022\/2023, AAAI 2023, ICAIF 2022.
+#2022 3rd ACM International Conference on AI in Finance.
 #- Graduate student instructor for IEOR 120\/170\/172\/221\/241\/263B.
 #- Reviewer: Journal of Optimization Theory and Applications (JOTA), NeurIPS 2021, ICLR 2021.
 
