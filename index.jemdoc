@@ -35,7 +35,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence 36 (6), 6774-6782.
 #AAAI Conference on Artificial Intelligence, 2022. \n
 - [https://arxiv.org/abs/2104.09311 Reinforcement Learning for Linear-Convex Models with Jumps via Stability Analysis of Feedback Controls]. \n
 Xin Guo, *Anran Hu*, Yufei Zhang. (2021)\n 
-Revision at SIAM Journal on Control and Optimization. \n
+Accepted, SIAM Journal on Control and Optimization. \n
 #Major revision, SIAM Journal on Control and Optimization. \n
 - [https://www.jmlr.org/papers/volume23/20-664/20-664.pdf Logarithmic Regret for Episodic Continuous-Time Linear-Quadratic Reinforcement Learning over a Finite-Time Horizon]. \n
 Matteo Basei, Xin Guo, *Anran Hu*, Yufei Zhang. (2020)\n
@@ -44,7 +44,7 @@ Journal of Machine Learning Research, 23 (178), 1-34.
 #Submitted to Journal of Machine Learning Research.\n
 - [https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1274 A General Framework for Learning Mean-Field Games].\n
  Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. (2020)  \n
- Accepted, Mathematics of Operations Research.  \n
+ To appear, Mathematics of Operations Research.  \n
 - [https://papers.nips.cc/paper/8742-learning-mean-field-games Learning Mean-Field Games]. \[[https://nips.cc/Conferences/2019/Schedule?showEvent=13641 Slides]\]\n
 #- [https://arxiv.org/pdf/1901.09585.pdf Learning Mean-Field Games]. \[[https://papers.nips.cc/paper/8742-learning-mean-field-games Published version]\] \[[https://nips.cc/Conferences/2019/Schedule?showEvent=13641 Slides]\]\n
  Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. (2019) \n
@@ -63,6 +63,7 @@ Journal of Machine Learning Research, 23 (178), 1-34.
 -- Project: Data-Driven Large-Scale Inbound Behavior Prediction for Third-Party Sellers.
 
 == Invited Talks
+- North-East and Midlands Stochastic Analysis Seminar, Oxford, 2022.
 - SIAM Annual Meeting, Pittsburgh, PA, 2022.
 - IMSI Workshop on Machine Learning and Mean-Field Games, Chicago, IL, 2022.
 - INFORMS Annual Meeting, Virtual, 2020.
