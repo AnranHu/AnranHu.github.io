@@ -2,7 +2,8 @@
 
 == About me
 ~~~
-{}{img_left}{anranhu_photo.jpg}{Anran Hu photo}{210}{270}
+{}{img_left}{anranhu_photo_2024.jpg}{Anran Hu photo}{255}{270}
+#{anranhu_photo_2024.jpg}{Anran Hu photo}{240}{270}
 Welcome to my homepage!\n
 
 I am an assistant professor in the [https://ieor.columbia.edu/ Department of Industrial Engineering and Operations Research]. I work at the intersection of stochastic control, game theory, optimization and machine learning. My current primary research areas are mean-field games, continuous-time stochastic control and reinforcement learning, and more recently FinTech and applying machine learning and reinforcement learning to finance. Before coming to Columbia University, I was a Hooke Research Fellow in the Mathematical Institute at the University of Oxford. I completed my Ph.D. in [https://ieor.berkeley.edu/ Berkeley IEOR], advised by [https://xinguo.ieor.berkeley.edu/ Prof. Xin Guo]. Before coming to Berkeley, I obtained my B.S. degree from [http://english.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University].
@@ -11,9 +12,9 @@ Please find my [CV_AnranHu_202409.pdf CV] here.
 
 #== Contact
 Email: ah4277 \[at\] columbia (dot) edu \n
-\[[https://www.researchgate.net/profile/Anran-Hu-3 ResearchGate]\]
-\[[https://scholar.google.com/citations?user=AGrfjA8AAAAJ&hl=en Google Scholar]\]
-\[[https://www.linkedin.com/in/anran-hu-747a1b186/ LinkedIn]\] 
+#\[[https://www.researchgate.net/profile/Anran-Hu-3 ResearchGate]\]
+#\[[https://scholar.google.com/citations?user=AGrfjA8AAAAJ&hl=en Google Scholar]\]
+#\[[https://www.linkedin.com/in/anran-hu-747a1b186/ LinkedIn]\] 
 ~~~
 
 == Education
@@ -39,7 +40,7 @@ Xin Guo, Anran Hu, Matteo Santamaria, Mahan Tajrobehkar and Junzi Zhang.
 - [https://arxiv.org/pdf/2210.04110.pdf Optimization Frameworks and Sensitivity Analysis of Stackelberg Mean-Field Games]. \n
 Xin Guo, *Anran Hu*, Jiacheng Zhang. Submitted. (2022) 
 - [https://arxiv.org/pdf/2206.09608.pdf MF-OMO: An Optimization Formulation of Mean-Field Games]. \n
-Xin Guo, *Anran Hu*, Junzi Zhang. SIAM Journal on Control and Optimization, 62(1), 243-270. (2022) \n 
+Xin Guo, *Anran Hu*, Junzi Zhang. SIAM Journal on Control and Optimization, 62(1), 243-270. (2024) \n 
 - [https://ojs.aaai.org/index.php/AAAI/article/view/20633 Theoretical Guarantees of Fictitious Discount Algorithms for Episodic Reinforcement Learning and Global Convergence of Policy Gradient Methods]. \n
 Xin Guo, *Anran Hu*, Junzi Zhang.  (2021)\n
 Proceedings of the AAAI Conference on Artificial Intelligence 36 (6), 6774-6782. 
@@ -66,12 +67,12 @@ Journal of Machine Learning Research, 23 (178), 1-34.
 [https://sites.google.com/view/nips2018causallearning/home NeurIPS 2018 Workshop on Causal Learning]. \n
 
 
-== Work Experience
-- *Columbia University, Department of Industrial Engineering and Operations Research*, /Assistant Professor/
-- *University of Oxford, Mathematical Institute*, /Hooke Research Fellow/
-- *Amazon.com LLC (Seattle)*, /Applied Scientist Intern/
--- Manager: [https://www.linkedin.com/in/xinyang-shen-48161b Dr. Xinyang Shen].
--- Project: Data-Driven Large-Scale Inbound Behavior Prediction for Third-Party Sellers.
+#== Work Experience
+#- *Columbia University, Department of Industrial Engineering and Operations Research*, /Assistant Professor/
+#- *University of Oxford, Mathematical Institute*, /Hooke Research Fellow/
+#- *Amazon.com LLC (Seattle)*, /Applied Scientist Intern/
+#-- Manager: [https://www.linkedin.com/in/xinyang-shen-48161b Dr. Xinyang Shen].
+#-- Project: Data-Driven Large-Scale Inbound Behavior Prediction for Third-Party Sellers.
 
 == Invited Talks
 - IMSI Workshop on Decision Making and Uncertainty, Chicago, IL, 2024
@@ -101,7 +102,7 @@ Journal of Machine Learning Research, 23 (178), 1-34.
 
 == Teaching
 - Instructor, Columbia University
--- IEOR E4500: Applications Programming for Financial Engineering, Fall 2024.
+-- IEOR 4500: Applications Programming for Financial Engineering, Fall 2024.
 - Instructor, University of Oxford
 -- MCF Statistics and Financial Data Analysis, Michaelmas Term 2023.
 -- MCF Introduction to Statistics, Michaelmas Term 2023.
@@ -125,11 +126,11 @@ Journal of Machine Learning Research, 23 (178), 1-34.
 #- Graduate student instructor for IEOR 120\/170\/172\/221\/241\/263B.
 #- Reviewer: Journal of Optimization Theory and Applications (JOTA), NeurIPS 2021, ICLR 2021.
 
-== Recent Honors \& Awards
-- Outstanding Graduate Student Instructor, 2021.
-- Berkeley Marshall-Oliver-Rosenberger Fellowship, 2020.
-- NeurIPS Travel Award, 2019.
-- Berkeley IEOR First Year Faculty Fellowship Award, 2017.
+#== Recent Honors \& Awards
+#- Outstanding Graduate Student Instructor, 2021.
+#- Berkeley Marshall-Oliver-Rosenberger Fellowship, 2020.
+#- NeurIPS Travel Award, 2019.
+#- Berkeley IEOR First Year Faculty Fellowship Award, 2017.
 
 
 
