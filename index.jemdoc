@@ -18,9 +18,9 @@ Email: ah4277 \[at\] columbia (dot) edu \n
 ~~~
 
 == Education
-- Ph.D., [https://ieor.berkeley.edu/ IEOR, UC Berkeley], August 2016 -- August 2022.
-- M.S., [https://ieor.berkeley.edu/ IEOR, UC Berkeley], August 2016 -- May 2017.
-- B.S., [http://english.math.pku.edu.cn/ School of Mathematical Sciences], [http://english.pku.edu.cn/ Peking University], September 2012 -- July 2016.
+- Ph.D., [https://ieor.berkeley.edu/ IEOR, UC Berkeley]#, August 2016 -- August 2022.
+- M.S., [https://ieor.berkeley.edu/ IEOR, UC Berkeley]#, August 2016 -- May 2017.
+- B.S., [http://english.math.pku.edu.cn/ School of Mathematical Sciences], [http://english.pku.edu.cn/ Peking University]#, September 2012 -- July 2016.
 
 == Research Interests
 - Mathematical finance, financial engineering and FinTech
@@ -28,44 +28,49 @@ Email: ah4277 \[at\] columbia (dot) edu \n
 - Reinforcement learning and machine learning
 
 == Publications \& Preprints
+- [https://arxiv.org/pdf/2510.11843 Mean-Field Games with Constraints]. \n
+*Anran Hu* and Zijiu Lyu. 
 # - [https://anranhu.github.io/ Policy Gradient Algorithms in Non-stationary Finite Horizon Environments]. \n
-# *Anran Hu*. Working paper. (2024)
+# *Anran Hu*. Working paper. 
 - [https://arxiv.org/abs/2503.01042 Continuous-time Mean Field Games: A Primal-dual Characterization]. \n
-Xin Guo, *Anran Hu*, Jiacheng Zhang and Yufei Zhang. (2025)
+Xin Guo, *Anran Hu*, Jiacheng Zhang and Yufei Zhang. 
 - [https://arxiv.org/abs/2502.12389 Homogenization and Mean-Field Approximation for Multi-Player Games]. \n
-Rama Cont and *Anran Hu*. (2025)
+Rama Cont and *Anran Hu*. \n
+Revision at Mathematics of Operations Research.
 - [https://arxiv.org/pdf/2405.00282 MF-OML: Online Mean-Field Reinforcement Learning with Occupation Measures for Large Population Games]. \n
-*Anran Hu* and Junzi Zhang. (2024)
+*Anran Hu* and Junzi Zhang. \n
+To appear, Applied Mathematics \& Optimization. 
 - [https://arxiv.org/pdf/2304.08630.pdf MFGLib: A Library for Mean-Field Games]. \n
 Xin Guo, *Anran Hu*, Matteo Santamaria, Mahan Tajrobehkar and Junzi Zhang. 
 -- [https://github.com/radar-research-lab/MFGLib MFGLib]: open-source Python library for computing Nash equilibria of mean-field games.
 - [https://arxiv.org/pdf/2210.04110.pdf Optimization Frameworks and Sensitivity Analysis of Stackelberg Mean-Field Games]. \n
-Xin Guo, *Anran Hu*, Jiacheng Zhang. (2022) 
+Xin Guo, *Anran Hu*, Jiacheng Zhang. 
 - [https://arxiv.org/pdf/2206.09608.pdf MF-OMO: An Optimization Formulation of Mean-Field Games]. \n
-Xin Guo, *Anran Hu*, Junzi Zhang. SIAM Journal on Control and Optimization, 62(1), 243-270. (2024) \n 
+Xin Guo, *Anran Hu*, Junzi Zhang. \n
+SIAM Journal on Control and Optimization, 62(1), 243-270.  \n 
 - [https://ojs.aaai.org/index.php/AAAI/article/view/20633 Theoretical Guarantees of Fictitious Discount Algorithms for Episodic Reinforcement Learning and Global Convergence of Policy Gradient Methods]. \n
-Xin Guo, *Anran Hu*, Junzi Zhang.  (2021)\n
+Xin Guo, *Anran Hu*, Junzi Zhang.  \n
 Proceedings of the AAAI Conference on Artificial Intelligence 36 (6), 6774-6782. 
 #AAAI Conference on Artificial Intelligence, 2022. \n
 - [https://arxiv.org/abs/2104.09311 Reinforcement Learning for Linear-Convex Models with Jumps via Stability Analysis of Feedback Controls]. \n
-Xin Guo, *Anran Hu*, Yufei Zhang. (2021)\n 
+Xin Guo, *Anran Hu*, Yufei Zhang. \n 
 SIAM Journal on Control and Optimization, 61(2), 755-787. \n
 #Major revision, SIAM Journal on Control and Optimization. \n
 - [https://www.jmlr.org/papers/volume23/20-664/20-664.pdf Logarithmic Regret for Episodic Continuous-Time Linear-Quadratic Reinforcement Learning over a Finite-Time Horizon]. \n
-Matteo Basei, Xin Guo, *Anran Hu*, Yufei Zhang. (2020)\n
+Matteo Basei, Xin Guo, *Anran Hu*, Yufei Zhang. \n
 Journal of Machine Learning Research, 23 (178), 1-34. 
 #Journal of Machine Learning Research, 2022.
 #Submitted to Journal of Machine Learning Research.\n
 - [https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1274 A General Framework for Learning Mean-Field Games].\n
- Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. (2020)  \n
+ Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang.  \n
  Mathematics of Operations Research, 48(2), 656-686.  \n
 - [https://papers.nips.cc/paper/8742-learning-mean-field-games Learning Mean-Field Games]. \[[https://nips.cc/Conferences/2019/Schedule?showEvent=13641 Slides]\]\n
 #- [https://arxiv.org/pdf/1901.09585.pdf Learning Mean-Field Games]. \[[https://papers.nips.cc/paper/8742-learning-mean-field-games Published version]\] \[[https://nips.cc/Conferences/2019/Schedule?showEvent=13641 Slides]\]\n
- Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. (2019) \n
+ Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang.  \n
  Advances in Neural Information Processing Systems, 32. 
  #Neural Information Processing Systems (NeurIPS), 2019. \n
 - [https://arxiv.org/pdf/1810.02955.pdf Consistency and Computation of Regularized MLEs for Multivariate Hawkes Processes].\n
- Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang. (2018) \n
+ Xin Guo, *Anran Hu*, Renyuan Xu, and Junzi Zhang.  \n
 [https://sites.google.com/view/nips2018causallearning/home NeurIPS 2018 Workshop on Causal Learning]. \n
 
 
@@ -77,6 +82,8 @@ Journal of Machine Learning Research, 23 (178), 1-34.
 #-- Project: Data-Driven Large-Scale Inbound Behavior Prediction for Third-Party Sellers.
 
 == Invited Talks
+- Berkeley–Columbia Meeting in Engineering and Statistics, Berkeley, 2025.
+- SIAM Conference on Financial Mathematics and Engineering, Miami, 2025.
 - Advances in Stochastic Control and Reinforcement Learning, Banff International Research Station (BIRS), 2025.
 - Young Talents in Actuarial Science and Quantitative Finance Conference, University of Waterloo, Canada, 2025.
 - Group Research Seminar, IEOR, UC Berkeley, Online, 2025.
@@ -119,7 +126,7 @@ Journal of Machine Learning Research, 23 (178), 1-34.
 == Teaching
 - Instructor, Columbia University
 -- IEOR 8100: Advanced Topics in IEOR, Spring 2025.
--- IEOR 4500: Applications Programming for Financial Engineering, Fall 2024.
+-- IEOR 4500: Applications Programming for Financial Engineering, Fall 2024, Fall 2025.
 - Instructor, University of Oxford
 -- MCF Statistics and Financial Data Analysis, Michaelmas Term 2023.
 -- MCF Introduction to Statistics, Michaelmas Term 2023.
