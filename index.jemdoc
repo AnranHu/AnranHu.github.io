@@ -8,7 +8,7 @@ Welcome to my homepage!\n
 
 I am an assistant professor in the [https://ieor.columbia.edu/ Department of Industrial Engineering and Operations Research] of Columbia University. I work at the intersection of stochastic control, game theory, optimization and machine learning. My current primary research areas are mean-field games, continuous-time stochastic control and reinforcement learning, and more recently FinTech and applying machine learning and reinforcement learning to finance. Before coming to Columbia University, I was a Hooke Research Fellow in the Mathematical Institute at the University of Oxford. I completed my Ph.D. in [https://ieor.berkeley.edu/ Berkeley IEOR], advised by [https://xinguo.ieor.berkeley.edu/ Prof. Xin Guo]. Before coming to Berkeley, I obtained my B.S. degree from [http://english.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University].
 
-Please find my [CV_AnranHu_20260122.pdf CV] here.
+Please find my [CV_AnranHu_20260813.pdf CV] here.
 
 #== Contact
 Email: ah4277 \[at\] columbia (dot) edu \n
@@ -33,7 +33,8 @@ Email: ah4277 \[at\] columbia (dot) edu \n
 - [drafts/Theoretical_Guarantee_for_the_Simple_Strategy_in_the_LQR_Problem.pdf Simple Policies for Long Horizons: Policy Gradient in Finite-Horizon LQ Control]. \n
 Zhijie Chen and *Anran Hu*.
 - [https://arxiv.org/pdf/2512.05712 $\alpha $-Potential Games for Decentralized Control of Connected and Automated Vehicles]. \n
-Xuan Di, *Anran Hu*, Zhexin Wang and Yufei Zhang.
+Xuan Di, *Anran Hu*, Zhexin Wang and Yufei Zhang. \n
+Proceedings of the 23rd IFAC World Congress, 2026. Accepted.
 - [https://arxiv.org/pdf/2510.11843 Mean-Field Games with Constraints]. \n
 *Anran Hu* and Zijiu Lyu. 
 # - [https://anranhu.github.io/ Policy Gradient Algorithms in Non-stationary Finite Horizon Environments]. \n
@@ -48,7 +49,8 @@ Revision at Mathematics of Operations Research.
 Applied Mathematics \& Optimization 92.3 (2025): 1-54.
 # To appear, Applied Mathematics \& Optimization. 
 - [https://arxiv.org/pdf/2304.08630.pdf MFGLib: A Library for Mean-Field Games]. \n
-Xin Guo, *Anran Hu*, Matteo Santamaria, Mahan Tajrobehkar and Junzi Zhang.
+Xin Guo, *Anran Hu*, Matteo Santamaria, Mahan Tajrobehkar and Junzi Zhang. \n
+Journal of Open Source Software, 11(120), 10137.
 -- [https://github.com/radar-research-lab/MFGLib MFGLib]: open-source Python library for computing Nash equilibria of mean-field games.
 - [https://arxiv.org/pdf/2210.04110.pdf Optimization Frameworks and Sensitivity Analysis of Stackelberg Mean-Field Games]. \n
 Xin Guo, *Anran Hu*, Jiacheng Zhang. 
